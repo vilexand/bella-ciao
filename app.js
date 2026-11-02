@@ -11,7 +11,7 @@
   };
   var I18N = {
     "nav.menu": {cat:"Carta",es:"Carta",fr:"Carte",en:"Menu"},
-    "nav.house": {cat:"El restaurant",es:"El restaurante",fr:"Le restaurant",en:"The restaurant"},
+    "nav.house": {cat:"Restaurant",es:"Restaurante",fr:"Restaurant",en:"Restaurant"},
     "nav.visit": {cat:"Com arribar",es:"Cómo llegar",fr:"Accès",en:"Find us"},
     "jobs.cta": {cat:"Enviar CV",es:"Enviar CV",fr:"Envoyer le CV",en:"Send CV"},
     "jobs.t": {cat:"Envia’ns el teu CV.",es:"Envíanos tu CV.",fr:"Envoyez-nous votre CV.",en:"Send us your CV."},
